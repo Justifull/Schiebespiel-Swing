@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Schiebespiel Swing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Schiebespiel_Swing_jar</output-path>
+    <root id="archive" name="Schiebespiel Swing.jar">
+      <element id="module-output" name="Schiebespiel Swing" />
+    </root>
+  </artifact>
+</component>
